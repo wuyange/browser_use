@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# 虚拟环境
+.venv/
+venv/
+ENV/
+
+# uv
+.uv/
+uv.lock
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 浏览器临时文件
+browseruse-*/
+
+# 环境变量
+.env
+.env.local
+
+# 日志
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
